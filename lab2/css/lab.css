@@ -1,0 +1,20 @@
+h1 {
+  color: green;
+  font-size: 50%;
+  font-family: "comic sans";
+}
+
+p {
+  text-indent: 30px;
+  font-size: 200%;
+  color: blue;
+}
+
+div#content {
+  background-color: #e23d28;
+  min-width: 500px;
+  min-height: 50px;
+  margin: 10px;
+  border: dotted 2px #006000;
+  border-radius: 5px;
+}
